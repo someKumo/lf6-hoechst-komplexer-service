@@ -16,6 +16,7 @@ Komplexe Service-Situation
   - Lüftergeräusch noch da
 
    Betroffene Person: Ticketbearbeiter
+   
    Mögliche Probleme:
 -	durch plötzliche Entladung Mainboardchip beschädigt
 -	Lüfter lässt sich nicht aufschrauben
